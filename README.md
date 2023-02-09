@@ -1,1 +1,0 @@
-# inspiration-quote-generator
